@@ -7,7 +7,7 @@ A multi-armed bandits environment for OpenAI gym.
 Requirements: gym and numpy
 
 ```
-pip install gym_bandits
+pip install gym-bandits
 ```
 
 ## Usage
