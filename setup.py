@@ -2,7 +2,7 @@ import setuptools
 from setuptools import setup
 
 setup(name='gym_bandits',
-      version='0.0.1',
+      version='0.0.2',
       author='Per Mattsson',
       author_email='magni84@gmail.com',
       description='Implements multi-armed bandits',
@@ -13,5 +13,5 @@ setup(name='gym_bandits',
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-      install_requires=['gym', 'numpy']
+      install_requires=['gymnasium', 'numpy']
 )
